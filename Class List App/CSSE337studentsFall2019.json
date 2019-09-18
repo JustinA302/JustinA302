@@ -1,0 +1,152 @@
+[
+  {
+    "Student Name": "Acevedo, Justin J",
+    "ID": "1134894",
+    "Email": "s1134894@monmouth.edu",
+    "Major": "CS",
+    "Class": "03",
+    "Advisor": "R. Scherl",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Bahto, Alyssa T",
+    "ID": "1005221",
+    "Email": "s1005221@monmouth.edu",
+    "Major": "CS",
+    "Class": "04",
+    "Advisor": "J. Chung",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Clyne, Thomas Patrick",
+    "ID": "1174131",
+    "Email": "s1174131@monmouth.edu",
+    "Major": "CS",
+    "Class": "04",
+    "Advisor": "C. Yu",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Donahue, Christopher James",
+    "ID": "1120345",
+    "Email": "s1120345@monmouth.edu",
+    "Major": "CS",
+    "Class": "03",
+    "Advisor": "R. Scherl",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Faenza, Salvatore Anthony",
+    "ID": "0987272",
+    "Email": "s0987272@monmouth.edu",
+    "Major": "CS",
+    "Class": "03",
+    "Advisor": "L. Zheng",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Falzini, Joseph Alexander Sousa",
+    "ID": "1177789",
+    "Email": "s1177789@monmouth.edu",
+    "Major": "CS",
+    "Class": "03",
+    "Advisor": "R. Scherl",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "James, Charles Abiodun",
+    "ID": "1132281",
+    "Email": "s1132281@monmouth.edu",
+    "Major": "CS",
+    "Class": "03",
+    "Advisor": "G. Eckert",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Johnson, Victoria Christine",
+    "ID": "1267935",
+    "Email": "s1267935@monmouth.edu",
+    "Major": "CS",
+    "Class": "04",
+    "Advisor": "K. Gatto",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Mastorio, Zakary T",
+    "ID": "1183708",
+    "Email": "s1183708@monmouth.edu",
+    "Major": "CS",
+    "Class": "03",
+    "Advisor": "R. Scherl",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "McNamee, Brad Allen",
+    "ID": "1253045",
+    "Email": "s1253045@monmouth.edu",
+    "Major": "CS",
+    "Class": "04",
+    "Advisor": "R. Scherl",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Mueller, Kyle P",
+    "ID": "1054831",
+    "Email": "s1054831@monmouth.edu",
+    "Major": "CS",
+    "Class": "04",
+    "Advisor": "G. Eckert",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+      "Student Name": "Skora, Patricia S",
+      "ID": "1105923",
+      "Email": "s1105923@monmouth.edu",
+      "Major": "CS",
+      "Class": "04",
+      "Advisor": "G. Eckert",
+      "Credits": "3",
+      "Admit Status": ""
+  },
+  {
+    "Student Name": "Aldoub, Mishari Eisa",
+    "ID": "1099030",
+    "Email": "s1099030@monmouth.edu",
+    "Major": "SE",
+    "Class": "03",
+    "Advisor": "D. Rosca",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Shabana, Mahmoud E",
+    "ID": "1134010",
+    "Email": "s1134010@monmouth.edu",
+    "Major": "SE",
+    "Class": "04",
+    "Advisor": "J. Kretsch",
+    "Credits": "3",
+    "Admit Status": ""
+  },
+  {
+    "Student Name": "Vail-Stein, Nicholas Tyler",
+    "ID": "1100518",
+    "Email": "s1100518@monmouth.edu",
+    "Major": "SE",
+    "Class": "04",
+    "Advisor": "G. Eckert",
+    "Credits": "3",
+    "Admit Status": ""
+  }
+]
